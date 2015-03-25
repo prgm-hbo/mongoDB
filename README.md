@@ -23,6 +23,5 @@
 - [mongo-express](https://www.npmjs.com/package/mongo-express)
 
 Autre syntaxe :
-- [mongo-express][me]
+- [mongo-express](https://www.npmjs.com/package/mongo-express" target="_blank)
 
-[me]: https://www.npmjs.com/package/mongo-express target="_blank"
